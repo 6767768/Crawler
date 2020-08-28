@@ -63,7 +63,7 @@ url='http://ehall.xjtu.edu.cn/jwapp/sys/cjcx/*default/index.do?amp_sec_version_=
 
 address='dean/text.txt'
 #文件夹
-dir='D:\桌面\威尼斯商人'
+dir = ''
 
 end = datetime.datetime.now()
 
